@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/xuanzhang/Work/myCoroutine/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -I/Users/xuanzhang/Work/myCoroutine/src/myCoroutine.hpp -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/myCoroutine.dir/main.cpp.o -c /Users/xuanzhang/Work/myCoroutine/main.cpp",
+  "file": "/Users/xuanzhang/Work/myCoroutine/main.cpp",
+  "output": "CMakeFiles/myCoroutine.dir/main.cpp.o"
+}
+]

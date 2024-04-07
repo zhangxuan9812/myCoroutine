@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20240407-0315-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.28.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="macOS"
+	Hostname="XuandeMacBook-Pro.local"
+	OSRelease="14.2.1"
+	OSVersion="23C71"
+	OSPlatform="arm64"
+	Is64Bits="1"
+	VendorString="IBM"
+	VendorID="IBM"
+	FamilyID="16777228"
+	ModelID="2"
+	ProcessorCacheSize="131072"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="12"
+	TotalVirtualMemory="12288"
+	TotalPhysicalMemory="32768"
+	LogicalProcessorsPerPhysical="12"
+	ProcessorClockFrequency="0"
+	>
+	<Testing>
+		<StartDateTime>Apr 06 20:15 PDT</StartDateTime>
+		<StartTestTime>1712459707</StartTestTime>
+		<TestList/>
+		<EndDateTime>Apr 06 20:15 PDT</EndDateTime>
+		<EndTestTime>1712459707</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
