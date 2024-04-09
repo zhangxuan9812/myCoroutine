@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Site BuildName="(empty)"
-	BuildStamp="20240407-0315-Experimental"
+	BuildStamp="20240409-1609-Experimental"
 	Name="(empty)"
 	Generator="ctest-3.28.3"
 	CompilerName=""
 	CompilerVersion=""
 	OSName="macOS"
-	Hostname="dhcp-v123-216.mobile.uci.edu"
+	Hostname="dhcp-10-8-033-098.mobile.reshsg.uci.edu"
 	OSRelease="14.2.1"
 	OSVersion="23C71"
 	OSPlatform="arm64"
@@ -18,17 +18,17 @@
 	ProcessorCacheSize="131072"
 	NumberOfLogicalCPU="12"
 	NumberOfPhysicalCPU="12"
-	TotalVirtualMemory="13312"
+	TotalVirtualMemory="14336"
 	TotalPhysicalMemory="32768"
 	LogicalProcessorsPerPhysical="12"
 	ProcessorClockFrequency="0"
 	>
 	<Testing>
-		<StartDateTime>Apr 07 16:42 PDT</StartDateTime>
-		<StartTestTime>1712533365</StartTestTime>
+		<StartDateTime>Apr 09 09:10 PDT</StartDateTime>
+		<StartTestTime>1712679039</StartTestTime>
 		<TestList/>
-		<EndDateTime>Apr 07 16:42 PDT</EndDateTime>
-		<EndTestTime>1712533365</EndTestTime>
+		<EndDateTime>Apr 09 09:10 PDT</EndDateTime>
+		<EndTestTime>1712679039</EndTestTime>
 		<ElapsedMinutes>0</ElapsedMinutes>
 	</Testing>
 </Site>

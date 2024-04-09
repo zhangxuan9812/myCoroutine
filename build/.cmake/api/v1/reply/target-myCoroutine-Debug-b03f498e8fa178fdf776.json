@@ -49,7 +49,11 @@
 			[
 				{
 					"backtrace" : 2,
-					"path" : "/Users/xuanzhang/Work/myCoroutine/src/myCoroutine.hpp"
+					"path" : "/Users/xuanzhang/Work/myCoroutine/./src"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/xuanzhang/Work/myCoroutine/./utility"
 				}
 			],
 			"language" : "CXX",

@@ -52,7 +52,7 @@ build cmake_object_order_depends_target_myCoroutine: phony || CMakeFiles/myCorou
 build CMakeFiles/myCoroutine.dir/main.cpp.o: CXX_COMPILER__myCoroutine_unscanned_Debug /Users/xuanzhang/Work/myCoroutine/main.cpp || cmake_object_order_depends_target_myCoroutine
   DEP_FILE = CMakeFiles/myCoroutine.dir/main.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
-  INCLUDES = -I/Users/xuanzhang/Work/myCoroutine/src/myCoroutine.hpp
+  INCLUDES = -I/Users/xuanzhang/Work/myCoroutine/./src -I/Users/xuanzhang/Work/myCoroutine/./utility
   OBJECT_DIR = CMakeFiles/myCoroutine.dir
   OBJECT_FILE_DIR = CMakeFiles/myCoroutine.dir
 
